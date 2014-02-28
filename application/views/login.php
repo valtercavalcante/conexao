@@ -13,7 +13,7 @@
 			<div class="large-4 large-offset-4 columns">
 	        <h4 class="text-center">Solicitação WEB</h4>
 	        <h6 class="text-center">CONEXÃO ENGENHARIA</h6>
-		        <input type="text" placeholder="usuário" required autofocus>
+		        <input type="text" placeholder="usuário"  autofocus>
 		        <input type="password" placeholder="senha" required> 
 		        <h6><a href="#" class="text-right"> Esqueci minha senha</a></h6>
 		  	    <button class="success center" type="submit">Entrar</button>
